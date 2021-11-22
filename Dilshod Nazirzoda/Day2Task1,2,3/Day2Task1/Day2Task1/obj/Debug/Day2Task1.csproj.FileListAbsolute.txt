@@ -1,0 +1,9 @@
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\bin\Debug\Day2Task1.exe.config
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\bin\Debug\Day2Task1.exe
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\bin\Debug\Day2Task1.pdb
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.csprojResolveAssemblyReference.cache
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.Form1.resources
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.Properties.Resources.resources
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.csproj.GenerateResource.Cache
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.exe
+c:\users\don\documents\visual studio 2015\Projects\Day2Task1\Day2Task1\obj\Debug\Day2Task1.pdb
